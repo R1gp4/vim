@@ -1,9 +1,10 @@
 " Vim configuration
-"
+
 " Vim Plug first
 
 call plug#begin('~/.vim/plugged')
 
+	Plug 'tpope/vim-commentary' 
 	Plug 'sheerun/vim-polyglot'
 	Plug 'sainnhe/sonokai'
 	Plug 'franbach/miramare'
