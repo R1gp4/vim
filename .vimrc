@@ -4,6 +4,7 @@
 
 call plug#begin('~/.vim/plugged')
 
+	Plug 'scrooloose/syntastic'
 	Plug 'tpope/vim-commentary' 
 	Plug 'sheerun/vim-polyglot'
 	Plug 'sainnhe/sonokai'
